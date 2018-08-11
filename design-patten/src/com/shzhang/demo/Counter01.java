@@ -1,4 +1,4 @@
-package demo01;
+package com.shzhang.demo;
 
 import java.math.BigDecimal;
 import java.util.Scanner;
