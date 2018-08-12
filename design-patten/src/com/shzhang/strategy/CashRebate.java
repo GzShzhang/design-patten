@@ -6,6 +6,7 @@ import java.math.BigDecimal;
  * 打折收费子类
  * @author me
  *
+ *
  */
 public class CashRebate extends CashSuper{
 	private BigDecimal moneyRebate = new BigDecimal(1);

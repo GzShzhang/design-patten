@@ -2,7 +2,11 @@ package com.shzhang.strategy;
 
 import java.math.BigDecimal;
 import java.util.Scanner;
-
+/**
+ * 
+ * @author me
+ *
+ */
 public class Strategy_v2 {
 	public static void main(String[] args) throws Exception {
 		//总金额
