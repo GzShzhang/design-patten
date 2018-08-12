@@ -6,7 +6,6 @@ import java.math.BigDecimal;
  * 返利收费子类
  * @author me
  *
- *
  */
 public class CashReturn extends CashSuper{
 	//返利条件

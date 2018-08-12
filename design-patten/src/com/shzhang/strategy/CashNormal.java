@@ -3,7 +3,6 @@ package com.shzhang.strategy;
 import java.math.BigDecimal;
 
 /**
- * 
  * @author me
  *
  */
