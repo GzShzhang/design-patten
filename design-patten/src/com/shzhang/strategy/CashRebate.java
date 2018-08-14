@@ -4,7 +4,7 @@ import java.math.BigDecimal;
 
 /**
  * 打折收费子类
- * @author me
+ * @author me1
  *
  */
 public class CashRebate extends CashSuper{

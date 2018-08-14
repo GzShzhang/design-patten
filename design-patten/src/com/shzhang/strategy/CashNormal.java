@@ -4,7 +4,6 @@ import java.math.BigDecimal;
 
 /**
  * @author me
- *
  */
 public class CashNormal extends CashSuper{
 
